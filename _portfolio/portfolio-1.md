@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Bayesian Clustering via Fusing of Localized Densities"
+excerpt: ""
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Using Bayesian mixture models for cluster analysis is highly sensitive to model misspecification, typically resulting in more clusters than are actually present in the data. We propose to extricate components from clusters, instead characterizing clusters with multiple components via Fusing of Localized Densities (FOLD). Our method has has a fully decision theoretic justification, can be easily implemented as an add-on to a Bayesian procedure, and leads to appealing properties in the large sample limit.
