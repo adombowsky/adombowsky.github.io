@@ -7,7 +7,7 @@ author_profile: true
 
 ## Ongoing Projects
 
-Dombowsky, A., Herring, A., Dunson, D. (2023+) **Bayesian clustering via fusing of localized denstities.** *Working Paper.*
+Dombowsky, A. and Dunson, D. (2023+) **Bayesian clustering via fusing of localized denstities.** *Submitted.*
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
