@@ -15,6 +15,8 @@ I work on Bayesian clustering methods that (1) are robust to **model misspecific
 Outside of statistics, I like trail running, the NYT crossword, and playing soccer! 
 
 ## Recent News
-I've posted a new paper on arXiv! Dombowsky and Dunson (2023+). Bayesian Clustering via Fusing of Localized Densities. [Code is on my Github page](https://github.com/adombowsky/FOLD).
+I've posted a new paper on arXiv! 
+
+Dombowsky and Dunson (2023+). [Bayesian Clustering via Fusing of Localized Densities](https://arxiv.org/abs/2304.00074). Code is on my [GitHub page](https://github.com/adombowsky/FOLD).
 
 
