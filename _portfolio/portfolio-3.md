@@ -1,7 +1,9 @@
 ---
-title: "A Central Limit Theorem for Leave-One-Out Estimators in the Degree Balanced Stochastic Block Model"
+title: "Multiview Clustering"
 excerpt: ""
 collection: portfolio
 ---
 
-Theoretical results on random dot product graphs (RDPGs) have established a central limit theorem for the optimally scaled eigenvectors of the adjacency matrix. However, many of these analyses hinge on the assumption that the average degree of the graph diverges as the number of nodes gets arbitrarily large. In this project, we establish a central limit theorem for the eigenvectors of the adjacency matrix of a constant degree stochastic block model.
+Many real datasets can be described as multiview in that they are comprised of multiple information sources on a common set of entities. Multiview clustering is the task of deriving *clusters* based on each source (or view). In Bayesian inference, this involves inferring several random partitions from the data. Since the views are assumed to be dependent, we would expect the partitions to be dependent as well. However, the complexities of the partition space make this problem nontrivial.
+
+We address multiview clustering in "Product Centered Dirichlet Processes for Dependent Clustering".  In that article, we propose CLusteirng with Independence Centering (CLIC), a Bayesian method for modeling dependent partitions. First, we simulate two sparse independent *root partitions*, then generate statistically dependent random partitions by perturbing the roots. CLIC is induced by the product centered Dirichlet process (PCDP), a simple but novel prior for the mixing measure. We show that CLIC and the PCDP satisfy appealing theoretic properties and derive a Gibbs sampler for inferring the posterior distribution of the dependent partitions. 

@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Ongoing Projects
+## Preprints
+
+Dombowsky, A. and Dunson, D. (2023+) Product centered Dirichlet processes for dependent
+clustering. *Submitted.* 
+* [GitHub Repo](https://github.com/adombowsky/clic).
 
 Dombowsky, A. and Dunson, D. (2023+) [Bayesian clustering via fusing of localized denstities](https://arxiv.org/abs/2304.00074). *Submitted.* 
 * [GitHub Repo](https://github.com/adombowsky/FOLD).
