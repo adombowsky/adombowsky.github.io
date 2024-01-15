@@ -16,7 +16,9 @@ Outside of statistics, I like trail running, the NYT crossword, playing guitar, 
 
 ## Recent News
 
-12/12/2023: I've posted a new paper on arXiv about dependent clustering: Dombowsky and Dunson (2023+). [Product centered Dirichlet processes for dependent clustering](https://arxiv.org/abs/2312.05365). Code is on my [GitHub page](https://github.com/adombowsky/clic).
+01/15/2024: I recieved the SBSS Student Paper Award for "Product Centered Dirichlet Processes for Dependent Clustering" for [JSM 2024 in Portland, OR](https://ww2.amstat.org/meetings/jsm/2024/). Looking forward to the conference!
+
+12/12/2023: I've posted a new paper on arXiv about dependent clustering: Dombowsky and Dunson (2023+). [Product Centered Dirichlet Processes for Dependent Clustering](https://arxiv.org/abs/2312.05365). Code is on my [GitHub page](https://github.com/adombowsky/clic).
 
 11/17/2023: I recieved an award for best long talk at [BAYSM 2023](https://events.stat.uconn.edu/BAYSM2023/) for my talk "Bayesian Clustering via Fusing of Localized Densities"!
 
