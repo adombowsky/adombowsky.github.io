@@ -16,6 +16,8 @@ Outside of statistics, I like trail running, the NYT crossword, playing guitar, 
 
 ## Recent News
 
+05/06/2024: I've posted a new paper on arXiv about an application of clustering to medicine: Dombowsky et al. (2024+). [Bayesian Learning of Clinically Meaningful Sepsis Phenotypes in Northern Tanzania](https://arxiv.org/abs/2405.01746). Code to implement the simulation study can be found [here](https://github.com/adombowsky/CLAMR).
+
 01/15/2024: I recieved the SBSS Student Paper Award for "Product Centered Dirichlet Processes for Dependent Clustering" for [JSM 2024 in Portland, OR](https://ww2.amstat.org/meetings/jsm/2024/). Looking forward to the conference!
 
 12/12/2023: I've posted a new paper on arXiv about dependent clustering: Dombowsky and Dunson (2023+). [Product Centered Dirichlet Processes for Dependent Clustering](https://arxiv.org/abs/2312.05365). Code is on my [GitHub page](https://github.com/adombowsky/clic).
