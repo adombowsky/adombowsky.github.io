@@ -10,11 +10,13 @@ redirect_from:
 
 I'm Alex, a PhD student in the [Statistical Science](https://stat.duke.edu/) department at Duke University, supervised by [David Dunson](https://scholar.google.com/citations?user=KwEOawwAAAAJ&hl=en&oi=ao) and [Amy Herring](https://scholar.google.com/citations?user=Pw0lX_8AAAAJ&hl=en&oi=ao). Previously, I obtained my undergraduate and master's degrees from [McGill University](https://www.mcgill.ca/mathstat/). 
 
-I work on Bayesian clustering methods for complex data with a strong mathematical foundation. Recently, I have focused on **decision theory** and **Bayesian nonparametrics**. 
+I work on Bayesian methods for complex data with a strong mathematical foundation. Recently, I have focused on **decision theory**, **Bayesian nonparametrics**, and **categorical data analysis**. 
 
 Outside of statistics, I like trail running, the NYT crossword, playing guitar, and watching the Premier League! 
 
 ## Recent News
+
+07/26/2024: We've just made an R package that implements FOLD available on Github: ```foldcluster```. See [this link](https://github.com/adombowsky/FOLD) for installation instructions.
 
 05/06/2024: I've posted a new paper on arXiv about an application of clustering to medicine: Dombowsky et al. (2024+). [Bayesian Learning of Clinically Meaningful Sepsis Phenotypes in Northern Tanzania](https://arxiv.org/abs/2405.01746). Code to implement the simulation study can be found [here](https://github.com/adombowsky/CLAMR).
 
