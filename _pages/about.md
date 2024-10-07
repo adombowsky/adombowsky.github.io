@@ -10,11 +10,13 @@ redirect_from:
 
 I'm Alex, a PhD student in the [Statistical Science](https://stat.duke.edu/) department at Duke University, supervised by [David Dunson](https://scholar.google.com/citations?user=KwEOawwAAAAJ&hl=en&oi=ao) and [Amy Herring](https://scholar.google.com/citations?user=Pw0lX_8AAAAJ&hl=en&oi=ao). Previously, I obtained my undergraduate and master's degrees from [McGill University](https://www.mcgill.ca/mathstat/). 
 
-I work on Bayesian methods for complex data with a strong mathematical foundation. Recently, I have focused on **decision theory**, **Bayesian nonparametrics**, and **categorical data analysis**. 
+I work on statistical methods for complex data with a strong mathematical foundation. Recently, I have focused on **decision theory**, **Bayesian nonparametrics**, and **categorical data analysis**. 
 
 Outside of statistics, I like trail running, the NYT crossword, playing guitar, and watching the Premier League! 
 
 ## Recent News
+
+10/07/2024: A new version of [Product Centered Dirichlet Processes for Bayesian Multiview Clustering](https://arxiv.org/abs/2312.05365) is available on ArXiv! The updated code is on [Github](https://github.com/adombowsky/clic).
 
 07/26/2024: We've just made an R package that implements FOLD available on Github: ```foldcluster```. See [this link](https://github.com/adombowsky/FOLD) for installation instructions.
 
