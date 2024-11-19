@@ -7,7 +7,8 @@ author_profile: true
 
 ## Journals
 
-Dombowsky, A. and Dunson, D. B. (2023) [Bayesian clustering via fusing of localized denstities](https://arxiv.org/abs/2304.00074). *Journal of the American Statistical Association: Theory and Methods.* In press. 
+Dombowsky, A. and Dunson, D. B. (2024) [Bayesian clustering via fusing of localized densities](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2427935). *Journal of the American Statistical Association: Theory and Methods.* In press.
+* [ArXiv Preprint](https://arxiv.org/abs/2304.00074).
 * [Github Repo and R Package](https://github.com/adombowsky/FOLD).
 
 ## Submitted
