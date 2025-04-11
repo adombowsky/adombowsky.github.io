@@ -15,6 +15,8 @@ I work on statistical methods for complex data with a strong mathematical founda
 Outside of statistics, I like running, the NYT crossword, playing guitar, and watching the Premier League.
 
 ## Recent News
+04/09/2025: [Product Centered Dirichlet Processes for Bayesian Multiview Clustering](https://arxiv.org/abs/2312.05365) has been accepted to the *Journal of the Royal Statistical Society, Series B*.
+
 10/31/2024: [Bayesian Clustering via Fusing of Localized Densities](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2427935) has been accepted to the *Journal of the American Statistical Association: Theory and Methods*.
 
 10/07/2024: A new version of [Product Centered Dirichlet Processes for Bayesian Multiview Clustering](https://arxiv.org/abs/2312.05365) is available on ArXiv. The updated code is on [Github](https://github.com/adombowsky/clic).
