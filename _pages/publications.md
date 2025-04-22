@@ -21,7 +21,9 @@ Dombowsky, A., Dunson, D. B., Madut, D. B., Rubach, M. P., and Herring,  A. H. (
 * [Github Repo](https://github.com/adombowsky/CLAMR).
 
 ## Ongoing Work
-Dombowsky, A. and Dunson, D. B. (2024+). Hierarchical directed Dirichlet networks for discrete graphical modeling. *Working Paper*.
+Dombowsky, A. and Dunson, D. B. (2025+). Hierarchical directed Dirichlet networks for discrete graphical modeling. *Working Paper*.
+
+Meng, J., Dombowsky, A., and Dunson, D. B. (2025+). Kernel robust Bayesian clustering in high dimensions. *Working Paper*.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
