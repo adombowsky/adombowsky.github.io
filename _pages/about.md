@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Alex, a PhD student in the [Statistical Science](https://stat.duke.edu/) department at Duke University, supervised by [David Dunson](https://scholar.google.com/citations?user=KwEOawwAAAAJ&hl=en&oi=ao) and [Amy Herring](https://scholar.google.com/citations?user=Pw0lX_8AAAAJ&hl=en&oi=ao). Previously, I obtained my undergraduate and master's degrees from [McGill University](https://www.mcgill.ca/mathstat/). 
+I'm Alex, a PhD student in the [Statistical Science](https://stat.duke.edu/) department at Duke University, supervised by [David Dunson](https://scholar.google.com/citations?user=KwEOawwAAAAJ&hl=en&oi=ao) and [Amy Herring](https://scholar.google.com/citations?user=Pw0lX_8AAAAJ&hl=en&oi=ao). Previously, I obtained my undergraduate and master's degrees from [McGill University](https://www.mcgill.ca/mathstat/). Starting in August 2025, I will be a postdoc at [Gladstone Institutes](https://gladstone.org/) in Barbara Engelhardt's group.
 
 I work on statistical methods for complex data with a strong mathematical foundation. Recently, I have focused on **decision theory**, **Bayesian nonparametrics**, and **categorical data analysis**. I am also an active member of the [Sepsis Characterization in Kilimanjaro (SICK)](https://scholars.duke.edu/grant/291870) team, a research group focused on identifying subtypes of sepsis in sub-Saharan Africa.
 
