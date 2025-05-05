@@ -11,13 +11,13 @@ Dombowsky, A., Dunson, D. B., Madut, D. B., Rubach, M. P., and Herring,  A. H. (
 * [ArXiv Preprint](https://arxiv.org/abs/2405.01746)
 * [Github Repo](https://github.com/adombowsky/CLAMR)
 
-Dombowsky, A. and Dunson, D. B. (2025) Product centered Dirichlet processes for Bayesian multiview clustering. *Journal of the Royal Statistical Society, Series B*. In press.
+Dombowsky, A. and Dunson, D. B. (2025) [Product centred Dirichlet processes for Bayesian multiview clustering](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkaf021/8123289). *Journal of the Royal Statistical Society, Series B*. In press.
 * [ArXiv Preprint](https://arxiv.org/abs/2312.05365)
-* [Github Repo](https://github.com/adombowsky/clic).
+* [Github Repo](https://github.com/adombowsky/clic)
 
 Dombowsky, A. and Dunson, D. B. (2024) [Bayesian clustering via fusing of localized densities](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2427935). *Journal of the American Statistical Association: Theory and Methods.* In press.
 * [ArXiv Preprint](https://arxiv.org/abs/2304.00074).
-* [Github Repo and R Package](https://github.com/adombowsky/FOLD).
+* [Github Repo and R Package](https://github.com/adombowsky/FOLD)
 
 ## Ongoing Work
 Dombowsky, A. and Dunson, D. B. (2025+). Hierarchical directed Dirichlet networks for discrete graphical modeling. *Working Paper*.

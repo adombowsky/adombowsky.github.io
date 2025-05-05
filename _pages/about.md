@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm Alex, a PhD student in the [Statistical Science](https://stat.duke.edu/) department at Duke University, supervised by [David Dunson](https://scholar.google.com/citations?user=KwEOawwAAAAJ&hl=en&oi=ao) and [Amy Herring](https://scholar.google.com/citations?user=Pw0lX_8AAAAJ&hl=en&oi=ao). Previously, I obtained my undergraduate and master's degrees from [McGill University](https://www.mcgill.ca/mathstat/). Starting in August 2025, I will be a postdoc at [Gladstone Institutes](https://gladstone.org/) in Barbara Engelhardt's group.
+I'm Alex, a postdoctoral researcher in the [Statistical Science](https://stat.duke.edu/) department at Duke University. In May 2025, I completed my PhD in Statistical Science at Duke, supervised by [David Dunson](https://scholar.google.com/citations?user=KwEOawwAAAAJ&hl=en&oi=ao) and [Amy Herring](https://scholar.google.com/citations?user=Pw0lX_8AAAAJ&hl=en&oi=ao). Previously, I obtained my undergraduate and master's degrees from [McGill University](https://www.mcgill.ca/mathstat/). Starting in August 2025, I will be a postdoc at [Gladstone Institutes](https://gladstone.org/) in Barbara Engelhardt's group.
 
-I work on statistical methods for complex data with a strong mathematical foundation. Recently, I have focused on **decision theory**, **Bayesian nonparametrics**, and **categorical data analysis**. I am also an active member of the [Sepsis Characterization in Kilimanjaro (SICK)](https://scholars.duke.edu/grant/291870) team, a research group focused on identifying subtypes of sepsis in sub-Saharan Africa.
+I work on statistical methods for complex data with a strong mathematical foundation. Recently, I have focused on **decision theory**, **Bayesian nonparametrics**, **categorical data analysis**, and **infectious diseases**. I am an active member of the [Sepsis Characterization in Kilimanjaro (SICK)](https://scholars.duke.edu/grant/291870) team, a research group focused on identifying subtypes of sepsis in sub-Saharan Africa.
 
 Outside of statistics, I like running, the NYT crossword, playing guitar, and watching the Premier League.
 
 ## Recent News
-04/28/2025: [Bayesian Learning of Clinically Meaningful Sepsis Phenotypes in Northern Tanzania](https://arxiv.org/abs/2405.01746) has been accepted to the Annals of Applied Statistics.
+04/28/2025: [Bayesian Learning of Clinically Meaningful Sepsis Phenotypes in Northern Tanzania](https://arxiv.org/abs/2405.01746) has been accepted to *The Annals of Applied Statistics*.
 
 04/09/2025: [Product Centered Dirichlet Processes for Bayesian Multiview Clustering](https://arxiv.org/abs/2312.05365) has been accepted to the *Journal of the Royal Statistical Society, Series B*.
 
