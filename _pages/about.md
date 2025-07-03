@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Alex, a postdoctoral researcher in the [Statistical Science](https://stat.duke.edu/) department at Duke University. In May 2025, I completed my PhD in Statistical Science at Duke, supervised by [David Dunson](https://scholar.google.com/citations?user=KwEOawwAAAAJ&hl=en&oi=ao) and [Amy Herring](https://scholar.google.com/citations?user=Pw0lX_8AAAAJ&hl=en&oi=ao). Previously, I obtained my undergraduate and master's degrees from [McGill University](https://www.mcgill.ca/mathstat/). Starting in August 2025, I will be a postdoc at [Gladstone Institutes](https://gladstone.org/) in [Barbara Engelhardt](https://scholar.google.com/citations?user=VEGtG7YAAAAJ&hl=en)'s group.
+I'm Alex, a statistican and researcher. Starting in August 2025, I will be a postdoc at [Gladstone Institutes](https://gladstone.org/) in [Barbara Engelhardt](https://scholar.google.com/citations?user=VEGtG7YAAAAJ&hl=en)'s group. In May 2025, I completed my PhD in Statistical Science at Duke, supervised by [David Dunson](https://scholar.google.com/citations?user=KwEOawwAAAAJ&hl=en&oi=ao) and [Amy Herring](https://scholar.google.com/citations?user=Pw0lX_8AAAAJ&hl=en&oi=ao). Previously, I obtained my undergraduate and master's degrees from [McGill University](https://www.mcgill.ca/mathstat/).
 
-My research focuses on developing Bayesian methods with applications to biomedical science. Recently, I have worked on decision theory, Bayesian nonparametrics, categorical data analysis, and Bayesian networks. My research is motivated by problems in infectious diseases and genomics. Additionally, I am an active member of the [Sepsis Characterization in Kilimanjaro (SICK)](https://scholars.duke.edu/grant/291870) team, a research group focused on identifying subtypes of sepsis in sub-Saharan Africa.
+My research combines Bayesian statistics and machine learning to develop probabilistic models and decision-making tools, with a focus on clustering and Bayesian networks. Additionally, I am an active member of the [Sepsis Characterization in Kilimanjaro (SICK)](https://scholars.duke.edu/grant/291870) team.
 
 Outside of statistics, I like running, the NYT crossword, playing guitar, and watching the Premier League.
 
