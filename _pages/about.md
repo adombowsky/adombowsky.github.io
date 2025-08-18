@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Alex, a statistician and researcher. My work combines machine learning and Bayesian statistics to develop probabilistic models and decision-making tools, with a focus on clustering, Bayesian networks, and biomedical applications. 
+I am a postdoc at [Gladstone Institutes](https://gladstone.org/) in [Barbara Engelhardt](https://scholar.google.com/citations?user=VEGtG7YAAAAJ&hl=en)'s group. My work combines machine learning and Bayesian statistics to develop probabilistic models and decision-making tools, with a focus on clustering, Bayesian networks, and biomedical applications. 
 
- Starting in August 2025, I will be a postdoc at [Gladstone Institutes](https://gladstone.org/) in [Barbara Engelhardt](https://scholar.google.com/citations?user=VEGtG7YAAAAJ&hl=en)'s group. In May 2025, I completed my PhD in Statistical Science at Duke, supervised by [David Dunson](https://scholar.google.com/citations?user=KwEOawwAAAAJ&hl=en&oi=ao) and [Amy Herring](https://scholar.google.com/citations?user=Pw0lX_8AAAAJ&hl=en&oi=ao). Additionally, I am an active member of the [Sepsis Characterization in Kilimanjaro (SICK)](https://scholars.duke.edu/grant/291870) team. Previously, I obtained my undergraduate and master's degrees from [McGill University](https://www.mcgill.ca/mathstat/).
+In May 2025, I completed my PhD in Statistical Science at Duke, supervised by [David Dunson](https://scholar.google.com/citations?user=KwEOawwAAAAJ&hl=en&oi=ao) and [Amy Herring](https://scholar.google.com/citations?user=Pw0lX_8AAAAJ&hl=en&oi=ao). Previously, I obtained my undergraduate and master's degrees from [McGill University](https://www.mcgill.ca/mathstat/).
 
 Outside of statistics, I like running, the NYT crossword, playing guitar, and watching the Premier League.
 

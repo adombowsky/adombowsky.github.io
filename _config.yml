@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alexander Dombowsky, PhD"
   avatar           : "suit.png"
-  bio              : "Statistical Science Postdoctoral Researcher"
-  location         : "Durham, NC"
+  bio              : "Bioinformatics Fellow"
+  location         : "San Francisco Bay Area"
   employer         :
   pubmed           : 
   googlescholar    :  "https://scholar.google.com/citations?user=Ch10agkAAAAJ&hl=en"
-  email            : "alexander.dombowsky@duke.edu"
+  email            : "alexander.dombowsky@gladstone.ucsf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
