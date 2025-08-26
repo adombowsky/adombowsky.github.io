@@ -19,13 +19,13 @@ author_profile: true
 * [ArXiv Preprint](https://arxiv.org/abs/2304.00074).
 * [Github Repo and R Package](https://github.com/adombowsky/FOLD)
 
+## Submitted
+Madut, D. B., **Dombowsky, A.**, [& 16 others]. (2025+) Derivation of sepsis subtypes in northern Tanzania using Bayesian probabilistic clustering of clinical data.
+
 ## Ongoing Work
 **Dombowsky, A.** and Dunson, D. B. (2025+). Hierarchical directed Dirichlet networks for discrete graphical modeling. *Working Paper*.
 
 Meng, J., **Dombowsky, A.**, and Dunson, D. B. (2025+). Kernel robust Bayesian clustering in high dimensions. *Working Paper*.
-
-Madut, D. B., **Dombowsky, A.**, [& 12 others]. (2025+) Derivation of clinical sepsis clusters among a
-cohort of hospitalized patients in northern Tanzania.
 
 
 
