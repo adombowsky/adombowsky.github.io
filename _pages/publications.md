@@ -14,13 +14,14 @@ author_profile: true
 **Dombowsky, A.** and Dunson, D. B. (2024) Bayesian clustering via fusing of localized densities. *Journal of the American Statistical Association: Theory and Methods.* [[Publication](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2427935)] [[Preprint](https://arxiv.org/abs/2304.00074)] [[Package](https://github.com/adombowsky/FOLD)]
 
 ## Submitted
+
+**Dombowsky, A.** and Dunson, D. B. (2025+). Learning discrete Bayesian networks with hierarchical Dirichlet shrinkage. [[Preprint](https://arxiv.org/abs/2509.13267)] [[Code](https://github.com/adombowsky/HiDDeN_DAG)].
+
 Madut, D. B., **Dombowsky, A.**, [& 16 others]. (2025+) Derivation of sepsis subtypes in northern Tanzania using Bayesian probabilistic clustering of clinical data.
 
 ## Ongoing Work
-**Dombowsky, A.** and Dunson, D. B. (2025+). Hierarchical directed Dirichlet networks for discrete graphical modeling.
 
 Meng, J., **Dombowsky, A.**, and Dunson, D. B. (2025+). Kernel robust Bayesian clustering in high dimensions.
-
 
 
 {% if author.googlescholar %}
