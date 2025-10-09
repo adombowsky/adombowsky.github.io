@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at [Gladstone Institutes](https://gladstone.org/) in [Barbara Engelhardt](https://scholar.google.com/citations?user=VEGtG7YAAAAJ&hl=en)'s group. My work combines statistics and machine learning to develop probabilistic models and decision-making tools, with a focus on unsupervised learning, graphical models, nonparametric methods, and sequential processes.
+I am a postdoc at [Gladstone Institutes](https://gladstone.org/) in [Barbara Engelhardt](https://scholar.google.com/citations?user=VEGtG7YAAAAJ&hl=en)'s group. My work combines statistics and machine learning to develop probabilistic models and decision-making tools, with a focus on unsupervised learning, graphical models, nonparametric methods, sequential processes, and biomedical applications.
 
 In May 2025, I completed my PhD in Statistical Science at Duke, supervised by [David Dunson](https://scholar.google.com/citations?user=KwEOawwAAAAJ&hl=en&oi=ao) and [Amy Herring](https://scholar.google.com/citations?user=Pw0lX_8AAAAJ&hl=en&oi=ao). Previously, I obtained my master's degree from [McGill University](https://www.mcgill.ca/mathstat/) in Mathematics and Statistics, supervised by [Russell Steele](https://scholar.google.com/citations?user=-HzKeNwAAAAJ&hl=en&oi=ao). I was also an undergraduate at McGill, where I received a bachelor's degree in Mathematics. 
 
@@ -16,6 +16,9 @@ Outside of statistics, I like running, the NYT crossword, playing guitar, and wa
 
 ## Recent News
 09/16/2025: Check out [Learning discrete Bayesian networks with hierarchical Dirichlet shrinkage](https://arxiv.org/abs/2509.13267), a new preprint written with David Dunson about graphical modeling of categorical data.
+
+08/28/2025: [Bayesian learning of clinically meaningful sepsis phenotypes in northern Tanzania](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-3/Bayesian-learning-of-clinically-meaningful-sepsis-phenotypes-in-northern-Tanzania/10.1214/25-AOAS2045.short) has been published in the Annals of Applied Statistics.
+
 <!--
 04/28/2025: [Bayesian Learning of Clinically Meaningful Sepsis Phenotypes in Northern Tanzania](https://arxiv.org/abs/2405.01746) has been accepted to *The Annals of Applied Statistics*.
 
