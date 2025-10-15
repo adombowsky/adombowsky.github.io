@@ -19,6 +19,12 @@ Outside of statistics, I like running, the NYT crossword, playing guitar, and wa
 
 08/28/2025: [Bayesian learning of clinically meaningful sepsis phenotypes in northern Tanzania](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-3/Bayesian-learning-of-clinically-meaningful-sepsis-phenotypes-in-northern-Tanzania/10.1214/25-AOAS2045.short) has been published in the Annals of Applied Statistics.
 
+06/24/2025: I gave a talk at [BNP 14](https://bnp14.org/) on discrete Bayesian networks.
+
+04/30/2025: [Product centred Dirichlet processes for Bayesian multiview clustering](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf021/8123289) has been published in the Journal of the Royal Statistical Society, Series B.
+
+03/03/2025: I successfully defended my dissertation, titled *Bayesian Inference for Discrete Structures*. 
+
 <!--
 04/28/2025: [Bayesian Learning of Clinically Meaningful Sepsis Phenotypes in Northern Tanzania](https://arxiv.org/abs/2405.01746) has been accepted to *The Annals of Applied Statistics*.
 
