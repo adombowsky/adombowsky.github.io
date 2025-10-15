@@ -11,7 +11,7 @@ author_profile: true
 
 **Dombowsky, A.** and Dunson, D. B. (2025) Product centred Dirichlet processes for Bayesian multiview clustering. *Journal of the Royal Statistical Society, Series B*. [[Publication](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkaf021/8123289)] [[Preprint](https://arxiv.org/abs/2312.05365)] [[Code](https://github.com/adombowsky/clic)].
 
-**Dombowsky, A.** and Dunson, D. B. (2024) Bayesian clustering via fusing of localized densities. *Journal of the American Statistical Association: Theory and Methods.* [[Publication](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2427935)] [[Preprint](https://arxiv.org/abs/2304.00074)] [[Package](https://github.com/adombowsky/FOLD)]
+**Dombowsky, A.** and Dunson, D. B. (2025) Bayesian clustering via fusing of localized densities. *Journal of the American Statistical Association: Theory and Methods.* [[Publication](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2427935)] [[Preprint](https://arxiv.org/abs/2304.00074)] [[Package](https://github.com/adombowsky/FOLD)]
 
 ## Submitted
 
