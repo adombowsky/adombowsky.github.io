@@ -21,6 +21,9 @@ Madut, D. B., **Dombowsky, A.**, [& 16 others]. (2025+) Derivation of sepsis sub
 
 ## Ongoing Work
 
+**Dombowsky, A.**, Engelhardt, B. E., and Ramdas, A. (2026). Besag-Clifford e-values for unnormalized testing.
+
+
 Meng, J., **Dombowsky, A.**, and Dunson, D. B. (2025+). Kernel robust Bayesian clustering in high dimensions.
 
 

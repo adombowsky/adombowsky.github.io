@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at [Gladstone Institutes](https://gladstone.org/) in [Barbara Engelhardt](https://scholar.google.com/citations?user=VEGtG7YAAAAJ&hl=en)'s group. My work combines statistics and machine learning to develop probabilistic models and decision-making tools, with a focus on unsupervised learning, graphical models, nonparametric methods, sequential processes, and biomedical applications.
+I am a postdoc at Gladstone Institutes and Stanford University in [Barbara Engelhardt](https://www.stanfordgladstonebeehive.com/)'s group. I am interested in machine learning and AI for science. In May 2025, I completed my PhD in Statistical Science at Duke, and I have an MS and BS in Mathematics and Statistics from McGill University. 
 
-In May 2025, I completed my PhD in Statistical Science at Duke, supervised by [David Dunson](https://scholar.google.com/citations?user=KwEOawwAAAAJ&hl=en&oi=ao) and [Amy Herring](https://scholar.google.com/citations?user=Pw0lX_8AAAAJ&hl=en&oi=ao). Previously, I obtained my master's degree from [McGill University](https://www.mcgill.ca/mathstat/) in Mathematics and Statistics, supervised by [Russell Steele](https://scholar.google.com/citations?user=-HzKeNwAAAAJ&hl=en&oi=ao). I was also an undergraduate at McGill, where I received a bachelor's degree in Mathematics. 
+My work exists at the intersection of AI/ML, statistics, and biomedical science, with a focus on developing, applying, and evaluating machine learning and deep learning methods to answer applied questions. Currently, I am working on problems in hypothesis testing for ML models, as well as contrastive and representation learning from large-scale neuroimmunology datasets. My thesis research focused on robust and multimodal unsupervised learning, sepsis subtyping, and probabilistic graphical models. 
 
-Outside of statistics, I like running, the NYT crossword, playing guitar, and watching the Premier League.
+When I'm not working, I like running, skiing, reading, playing guitar, and watching the Premier League. 
 
 ## Recent News
+01/23/2026: I was awarded an SIE Early Career Award for [HiDDeN](https://arxiv.org/abs/2509.13267)! Looking forward to presenting at JSM 2026 in Boston.
+
 09/16/2025: Check out [Learning discrete Bayesian networks with hierarchical Dirichlet shrinkage](https://arxiv.org/abs/2509.13267), a new preprint written with David Dunson about graphical modeling of categorical data.
 
 08/28/2025: [Bayesian learning of clinically meaningful sepsis phenotypes in northern Tanzania](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-3/Bayesian-learning-of-clinically-meaningful-sepsis-phenotypes-in-northern-Tanzania/10.1214/25-AOAS2045.short) has been published in the Annals of Applied Statistics.
