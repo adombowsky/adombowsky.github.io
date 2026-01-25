@@ -191,6 +191,9 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -252,6 +255,15 @@ defaults:
   - scope:
       path: ""
       type: cv
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+    # _posts
+  - scope:
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
