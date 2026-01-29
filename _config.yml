@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://adombowsky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adombowsky/adombowsky.github.io"
-minimal_mistakes_skin.   : "dark"
+minimal_mistakes_skin   : "dark"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -260,15 +260,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 
 # Sass/SCSS
