@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at Gladstone Institutes and Stanford University in [Barbara Engelhardt](https://www.stanfordgladstonebeehive.com/)'s group. In May 2025, I completed my PhD in Statistical Science at Duke, and I have an MS and BS in Mathematics and Statistics from McGill University. My work exists at the intersection of AI/ML, statistics, and biomedical science, with a focus on developing and implementing machine learning methods to answer applied questions. Currently, I am working on hypothesis testing for ML models and representation learning. My thesis research focused on robust and multimodal clustering, sepsis subtyping, and probabilistic graphical models. 
+I am a postdoc at Gladstone Institutes and Stanford University in [Barbara Engelhardt](https://www.stanfordgladstonebeehive.com/)'s group. In May 2025, I completed my PhD in Statistical Science at Duke, and I have an MS and BS in Mathematics and Statistics from McGill University. My work exists at the intersection of AI/ML, statistics, and biomedical science, with a focus on developing and implementing machine learning methods to answer applied questions. Currently, I am working on hypothesis testing for ML models and representation learning. My dissertation research focused on robust and multimodal clustering, sepsis subtyping, and probabilistic graphical models. 
 
 When I'm not working, I like running, skiing, reading, playing guitar, and watching the Premier League. 
 
