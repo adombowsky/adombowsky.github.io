@@ -24,6 +24,19 @@
   /* Tables & Rules */
   table { color: #c9d1d9 !important; }
   hr { border-top: 1px solid #30363d !important; }
+
+  /* Remove the white ring around the profile photo */
+.author__avatar img {
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important; /* Removes any inner white spacing */
+}
+
+/*Add a subtle dark border instead */
+.author__avatar {
+  border: 1px solid #30363d !important;
+  border-radius: 50%; /* Keeps it circular */
+}
 </style>
 
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
