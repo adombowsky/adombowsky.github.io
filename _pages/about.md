@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at Stanford University and Gladstone Institutes in [Barbara Engelhardt](https://www.stanfordgladstonebeehive.com/)'s group. In May 2025, I completed my PhD in Statistical Science at Duke, and I have an MS and BS in Mathematics and Statistics from McGill University. 
+I am a postdoc at Stanford University and Gladstone Institutes in [Barbara Engelhardt](https://www.stanfordgladstonebeehive.com/)'s group. In May 2025, I completed my PhD in Statistical Science at Duke, and I have an MS and BS in Mathematics and Statistics from McGill University.
 
-My research exists at the intersection of AI, statistics, and biomedicine. Currently, I am working on ML model comparison with e-values and inferring biomarkers for neurodegenerative diseases. My dissertation research focused on Bayesian methods for robust and multimodal clustering, sepsis subtyping, and probabilistic graphical models. 
+My work exists at the intersection of AI, statistics, and computational biology. Currently, I am working on ML model comparison with e-values and identifying biomarkers for neurodegenerative diseases. My dissertation research focused on Bayesian methods for robust and multimodal clustering, sepsis subtyping, and probabilistic graphical models. 
 
 When I'm not working, I like running, skiing, reading, playing guitar, and watching the Premier League. 
 
+## Research Interests
+* Probabilistic machine learning, Bayesian statistics, deep learning, artificial intelligence
+* Drug discovery, biomarker discovery, transcriptomics, proteomics, biotechnology
+* Game-theoretic statistics, uncertainty quantification
+* Clustering, graphs, multimodal data integration, transfer learning
+
 ## Recent News
+03/18/2026: Check out our new preprint on [Besag-Clifford e-values](https://arxiv.org/abs/2603.15845), a new method for hypothesis testing with e-values.
+
 01/23/2026: I was awarded an SIE Early Career Award for [HiDDeN](https://arxiv.org/abs/2509.13267)! Looking forward to presenting at JSM 2026 in Boston.
 
 09/16/2025: Check out [Learning discrete Bayesian networks with hierarchical Dirichlet shrinkage](https://arxiv.org/abs/2509.13267), a new preprint written with David Dunson about graphical modeling of categorical data.

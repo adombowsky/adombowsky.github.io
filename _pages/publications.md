@@ -19,10 +19,10 @@ author_profile: true
 
 Madut, D. B., **Dombowsky, A.**, [& 16 others]. (2025+) Derivation of sepsis subtypes in northern Tanzania using Bayesian probabilistic clustering of clinical data.
 
+## Preprints
+**Dombowsky, A.**, Engelhardt, B. E., and Ramdas, A. (2026). Besag-Clifford e-values for unnormalized testing.[[Preprint]](https://arxiv.org/abs/2603.15845) [[Code]](https://github.com/adombowsky/BCevalues).
+
 ## Ongoing Work
-
-**Dombowsky, A.**, Engelhardt, B. E., and Ramdas, A. (2026). Besag-Clifford e-values for unnormalized testing.
-
 
 Meng, J., **Dombowsky, A.**, and Dunson, D. B. (2025+). Kernel robust Bayesian clustering in high dimensions.
 
