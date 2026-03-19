@@ -15,8 +15,8 @@ My work exists at the intersection of AI, statistics, and computational biology.
 When I'm not working, I like running, skiing, reading, playing guitar, and watching the Premier League. 
 
 ## Research Interests
-* Probabilistic machine learning, Bayesian statistics, deep learning, artificial intelligence
-* Drug discovery, biomarker discovery, transcriptomics, proteomics, biotechnology
+* Probabilistic machine learning, Bayesian statistics, artificial intelligence
+* Precision medicine, biomarker discovery, transcriptomics, proteomics, drug discovery
 * Game-theoretic statistics, uncertainty quantification
 * Clustering, graphs, multimodal data integration, transfer learning
 
