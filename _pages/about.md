@@ -23,7 +23,7 @@ When I'm not working, I like running, skiing, reading, playing guitar, and watch
 ## Recent News
 03/18/2026: Check out our new preprint on [Besag-Clifford e-values](https://arxiv.org/abs/2603.15845), a new method for hypothesis testing with e-values.
 
-01/23/2026: I was awarded an Statistics in Epidemiology Early Career Award for [HiDDeN](https://arxiv.org/abs/2509.13267)! Looking forward to presenting at JSM 2026 in Boston.
+01/23/2026: I was awarded a Statistics in Epidemiology Early Career Award for [HiDDeN](https://arxiv.org/abs/2509.13267)! Looking forward to presenting at JSM 2026 in Boston.
 
 09/16/2025: Check out [Learning discrete Bayesian networks with hierarchical Dirichlet shrinkage](https://arxiv.org/abs/2509.13267), a new preprint written with David Dunson about graphical modeling of categorical data.
 
