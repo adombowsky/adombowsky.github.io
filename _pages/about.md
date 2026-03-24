@@ -10,30 +10,26 @@ redirect_from:
 
 I am a postdoc at Stanford University and Gladstone Institutes in [Barbara Engelhardt](https://www.stanfordgladstonebeehive.com/)'s group. In May 2025, I completed my PhD in Statistical Science at Duke, and I have an MS and BS in Mathematics and Statistics from McGill University.
 
-My work exists at the intersection of AI, statistics, and computational biology. Currently, I am working on ML model comparison with e-values and identifying biomarkers for neurodegenerative diseases. My dissertation research focused on Bayesian methods for robust and multimodal clustering, sepsis subtyping, and probabilistic graphical models. 
+My work exists at the intersection of AI, statistics, and computational biology. My dissertation research focused on Bayesian methods for robust and multimodal clustering, sepsis subtyping, and probabilistic graphical models. 
 
 When I'm not working, I like running, skiing, reading, playing guitar, and watching the Premier League. 
 
 ## Research Interests
 * Probabilistic machine learning, Bayesian statistics, artificial intelligence
-* Precision medicine, biomarker discovery, transcriptomics, proteomics, drug discovery
+* Computational biology, precision medicine, biomarker discovery, transcriptomics, proteomics, drug discovery
 * Game-theoretic statistics, uncertainty quantification
 * Clustering, graphs, multimodal data integration, transfer learning
 
 ## Recent News
 03/18/2026: Check out our new preprint on [Besag-Clifford e-values](https://arxiv.org/abs/2603.15845), a new method for hypothesis testing with e-values.
 
-01/23/2026: I was awarded an SIE Early Career Award for [HiDDeN](https://arxiv.org/abs/2509.13267)! Looking forward to presenting at JSM 2026 in Boston.
+01/23/2026: I was awarded an Statistics in Epidemiology Early Career Award for [HiDDeN](https://arxiv.org/abs/2509.13267)! Looking forward to presenting at JSM 2026 in Boston.
 
 09/16/2025: Check out [Learning discrete Bayesian networks with hierarchical Dirichlet shrinkage](https://arxiv.org/abs/2509.13267), a new preprint written with David Dunson about graphical modeling of categorical data.
 
 08/28/2025: [Bayesian learning of clinically meaningful sepsis phenotypes in northern Tanzania](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-3/Bayesian-learning-of-clinically-meaningful-sepsis-phenotypes-in-northern-Tanzania/10.1214/25-AOAS2045.short) has been published in the Annals of Applied Statistics.
 
-06/24/2025: I gave a talk at [BNP 14](https://bnp14.org/) on discrete Bayesian networks.
-
 04/30/2025: [Product centred Dirichlet processes for Bayesian multiview clustering](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf021/8123289) has been published in the Journal of the Royal Statistical Society, Series B.
-
-03/03/2025: I successfully defended my dissertation, titled *Bayesian Inference for Discrete Structures*. 
 
 <!--
 04/28/2025: [Bayesian Learning of Clinically Meaningful Sepsis Phenotypes in Northern Tanzania](https://arxiv.org/abs/2405.01746) has been accepted to *The Annals of Applied Statistics*.
