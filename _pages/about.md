@@ -17,7 +17,7 @@ When I'm not working, I like running, skiing, reading, playing guitar, and watch
 ## Research Interests
 * Probabilistic machine learning, Bayesian statistics, artificial intelligence
 * Computational biology, precision medicine, biomarker discovery, transcriptomics, proteomics, drug discovery
-* Game-theoretic statistics, uncertainty quantification
+* Game-theoretic statistics, uncertainty quantification, sampling algorithms
 * Clustering, graphs, multimodal data integration, transfer learning
 
 ## Recent News
