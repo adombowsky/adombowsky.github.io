@@ -18,7 +18,7 @@ When I'm not working, I like running, skiing, reading, playing guitar, and watch
 * Probabilistic machine learning, Bayesian statistics, deep learning
 * Computational biology, precision medicine, biomarker discovery, drug discovery
 * Anytime-valid inference, uncertainty quantification, sampling algorithms, time series
-* Clustering, graphs, transfer learning
+* Model-based clustering, probabilistic graphical models, transfer learning
 
 ## Recent News
 03/18/2026: Check out our new preprint on [Besag-Clifford e-values](https://arxiv.org/abs/2603.15845), a new method for hypothesis testing with e-values.
