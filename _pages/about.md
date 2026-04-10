@@ -15,10 +15,10 @@ My work exists at the intersection of AI, statistics, and computational biology.
 When I'm not working, I like running, skiing, reading, playing guitar, and watching the Premier League. 
 
 ## Research Interests
-* Probabilistic machine learning, Bayesian statistics, artificial intelligence
-* Computational biology, precision medicine, biomarker discovery, transcriptomics, proteomics, drug discovery
-* Game-theoretic statistics, uncertainty quantification, sampling algorithms
-* Clustering, graphs, multimodal data integration, transfer learning
+* Probabilistic machine learning, Bayesian statistics, deep learning
+* Computational biology, precision medicine, biomarker discovery, drug discovery
+* Anytime-valid inference, uncertainty quantification, sampling algorithms, time series
+* Clustering, graphs, transfer learning
 
 ## Recent News
 03/18/2026: Check out our new preprint on [Besag-Clifford e-values](https://arxiv.org/abs/2603.15845), a new method for hypothesis testing with e-values.
